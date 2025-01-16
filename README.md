@@ -3,15 +3,20 @@
 # About the Project:
 This project is focused on analyzing Amazon sales data to extract valuable insights and trends. The analysis covers several key aspects, including:
 
-## Monthly and Yearly Revenue: Examination of revenue trends over months and years to identify seasonal patterns and growth rates.
+## Monthly and Yearly Revenue: 
+Examination of revenue trends over months and years to identify seasonal patterns and growth rates.
 
-## Total Revenue: Calculate overall revenue generated during the analysis period.
+## Total Revenue: 
+Calculate overall revenue generated during the analysis period.
 
-## Total Sales: Assessment of total sales volume to understand market demand and sales performance.
+## Total Sales: 
+Assessment of total sales volume to understand market demand and sales performance.
 
-## Units Sold: Analysis of the number of units sold, providing insights into product popularity and inventory turnover.
+## Units Sold: 
+Analysis of the number of units sold, providing insights into product popularity and inventory turnover.
 
-## Key Metrics: Evaluation of critical metrics such as average order value, conversion rates, and customer acquisition costs to measure performance and optimize strategies.
+## Key Metrics: 
+Evaluation of critical metrics such as average order value, conversion rates, and customer acquisition costs to measure performance and optimize strategies.
 
 # Problem Statement 
 Sales management has gained importance due to increasing competition and the need for improved distribution methods to reduce costs and increase profits. Sales management today is the most important function in a commercial and business enterprise. Do ETL: Extract-Transform-Load the Amazon dataset and find the Sales-trend-> month-wise, year-wise, yearly_month wise
